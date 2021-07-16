@@ -16,3 +16,12 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=YOONJUNHO&fontSize=50)
+
+🌹 t e c h 🌹
+JS html css Svelte
+
+React,React Native NodeJS MongoDB
+
+Java Spring
+
+MySQL MS SQL Oracle DB
