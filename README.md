@@ -7,5 +7,5 @@
 
 ### How to reach me? 🤔
 
-- 📮  **YOON's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fomagran6@gmail.com)](mailto:haemilyjh@gmail.com)
+- 📮  **YOON's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haemilyjh@gmail.com)](mailto:haemilyjh@gmail.com)
 
