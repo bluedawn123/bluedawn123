@@ -1,9 +1,7 @@
 ### Hi there 👋  My name is YOONJUNHO  
 
 
- - 💻   **I'm a ML / DL Develover**    
-
- - 🇰🇷  **Late but steady.I'm interested in everything that a computer can do. **
+ - 💻   **ML/FE/BE Develover**    
 
 ### How to reach me? 🤔
 
